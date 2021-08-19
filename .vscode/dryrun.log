@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/juan/OneDrive - University of Waterloo/Code/React/my-app'
+make: Leaving directory `/Users/juan/OneDrive - University of Waterloo/Code/React/my-app'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
