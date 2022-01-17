@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "react-tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Juan-Jose-Toro/Tic-Tac-Toe-React.git",
+  "homepage": "https://Juan-Jose-Toro.github.io/Tic-Tac-Toe-React",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.14.1",
