@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/css/main.fb22e7a1.chunk.css",
-    "main.js": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/main.792afa46.chunk.js",
-    "main.js.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/main.792afa46.chunk.js.map",
-    "runtime-main.js": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/runtime-main.b2b31e83.js",
-    "runtime-main.js.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/runtime-main.b2b31e83.js.map",
-    "static/js/2.af5764a6.chunk.js": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/2.af5764a6.chunk.js",
-    "static/js/2.af5764a6.chunk.js.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/2.af5764a6.chunk.js.map",
+    "main.css": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/css/main.50568426.chunk.css",
+    "main.js": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/main.7627ca07.chunk.js",
+    "main.js.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/main.7627ca07.chunk.js.map",
+    "runtime-main.js": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/runtime-main.c0d30276.js",
+    "runtime-main.js.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/runtime-main.c0d30276.js.map",
+    "static/js/2.edd2e106.chunk.js": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/2.edd2e106.chunk.js",
+    "static/js/2.edd2e106.chunk.js.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/2.edd2e106.chunk.js.map",
     "index.html": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/index.html",
-    "static/css/main.fb22e7a1.chunk.css.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/css/main.fb22e7a1.chunk.css.map",
-    "static/js/2.af5764a6.chunk.js.LICENSE.txt": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/2.af5764a6.chunk.js.LICENSE.txt"
+    "static/css/main.50568426.chunk.css.map": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/css/main.50568426.chunk.css.map",
+    "static/js/2.edd2e106.chunk.js.LICENSE.txt": "/Juan-Jose-Toro/Tic-Tac-Toe-React.git/static/js/2.edd2e106.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2b31e83.js",
-    "static/js/2.af5764a6.chunk.js",
-    "static/css/main.fb22e7a1.chunk.css",
-    "static/js/main.792afa46.chunk.js"
+    "static/js/runtime-main.c0d30276.js",
+    "static/js/2.edd2e106.chunk.js",
+    "static/css/main.50568426.chunk.css",
+    "static/js/main.7627ca07.chunk.js"
   ]
 }
